@@ -1,0 +1,38 @@
+[
+    {
+        "package": "spatstat.data",
+        "url": "https://github.com/spatstat/spatstat.data"
+    },
+    {
+        "package": "spatstat.utils",
+        "url": "https://github.com/spatstat/spatstat.utils"
+    },
+    {
+        "package": "spatstat.sparse",
+        "url": "https://github.com/spatstat/spatstat.sparse"
+    },
+    {
+        "package": "spatstat.geom",
+        "url": "https://github.com/spatstat/spatstat.geom"
+    },
+    {
+        "package": "spatstat.random",
+        "url": "https://github.com/spatstat/spatstat.random"
+    },
+    {
+        "package": "spatstat.explore",
+        "url": "https://github.com/spatstat/spatstat.explore"
+    },
+    {
+        "package": "spatstat.model",
+        "url": "https://github.com/spatstat/spatstat.model"
+    },
+    {
+        "package": "spatstat.linnet",
+        "url": "https://github.com/spatstat/spatstat.linnet"
+    },
+    {
+        "package": "spatstat",
+        "url": "https://github.com/spatstat/spatstat"
+    }
+]
