@@ -28,6 +28,10 @@
         "url": "https://github.com/spatstat/spatstat.model"
     },
     {
+        "package": "spatstat.core",
+        "url": "https://github.com/spatstat/spatstat.core"
+    },
+    {
         "package": "spatstat.linnet",
         "url": "https://github.com/spatstat/spatstat.linnet"
     },
