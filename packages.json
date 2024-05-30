@@ -20,6 +20,10 @@
         "url": "https://github.com/spatstat/spatstat.sparse"
     },
     {
+        "package": "spatstat.univar",
+        "url": "https://github.com/spatstat/spatstat.univar"
+    },
+    {
         "package": "spatstat.geom",
         "url": "https://github.com/spatstat/spatstat.geom"
     },
